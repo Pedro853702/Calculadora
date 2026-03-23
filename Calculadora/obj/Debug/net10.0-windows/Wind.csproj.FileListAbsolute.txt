@@ -1,0 +1,4 @@
+C:\Users\pedro\Documents\Programação\C#\Calculadora\obj\Debug\net10.0-windows\Wind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Documents\Programação\C#\Calculadora\obj\Debug\net10.0-windows\Wind.AssemblyInfoInputs.cache
+C:\Users\pedro\Documents\Programação\C#\Calculadora\obj\Debug\net10.0-windows\Wind.AssemblyInfo.cs
+C:\Users\pedro\Documents\Programação\C#\Calculadora\obj\Debug\net10.0-windows\Wind.csproj.CoreCompileInputs.cache
