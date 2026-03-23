@@ -5,4 +5,3 @@ Apenas de um dotnet run
 
 Form1 : GUI
 
-Main : CLI
